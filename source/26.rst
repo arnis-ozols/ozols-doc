@@ -1,0 +1,26 @@
+.. 26 CRM (Partneri)================== 
+
+
+CRM ir vienota uzņēmuma partneru datu bāze, kas nodrošina jebkuras
+klientu informācijas saglabāšanu, sākot ar korespondenci un telefona
+zvanu reģistru un beidzot ar klientu dzimšanas un vārda dienām.
+
+
+
+CRM (Partneri) nodrošina:
++++++++++++++++++++++++++
+
+
++ Uzņēmuma :doc:`Partneru<112>` - juridisku/fizisku personu ievadi
++ Vienotu Partneru klasifikatoru visiem uzņēmumiem, kuri savu
+  saimnieciskās darbības uzskaiti realizē vienotā datu bāzē
++ Partneru :doc:`Kontaktpersonu<389>` ievadi
++ :doc:`Partneru grupu<113>` ievadi
++ Rīkus korespondences nodrošināšani ar uzņēmuma partneriem - ziņojuma
+  žurnāla uzturēšana, atgādinātāju ievades iespējas, piedāvājumu žurnāla
+  uzturēšana, kampaņu veidošanas iespējas, utt.
+
+
+
+
+ .. toctree::   :maxdepth: 6    62.rst   87.rst   855.rst   61.rst

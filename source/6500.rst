@@ -1,0 +1,22 @@
+.. 6500 Polises=========== 
+
+
+Polišu modulisparedzēts apdrošināšanas brokeru sabiedrībām, kas veic
+vairāku apdrošinātāju polišu pārdošanu.
+
+
+
+Polišu uzskaite nodrošina sekojošu funkcionalitāti:
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
++ :doc:`Polises<6521>` paraksts (ar lietotāja definējamiem laukiem)
++ Apmaksas grafiks (integrēts grāmatvedības uzskaitē)
++ Faili (attēli vai jebkurš cits fails)
++ Polišu :doc:`Pielikumi<6518>` /dublikāti
++ Brokera, aģentu, starpnieku :doc:`Komisijas aprēķins<6516>`
++ :doc:`Komisijas uzskaite<6516>` starp Brokeri un Apdrošināšanas
+  sabiedrībām
+
+
+ .. toctree::   :maxdepth: 6    6503.rst   6502.rst   14077.rst   6520.rst   6595.rst   6504.rst   6501.rst

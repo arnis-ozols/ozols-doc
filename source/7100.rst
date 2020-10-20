@@ -1,0 +1,2 @@
+.. 7100 Mazumtirdzniecība===================== 
+ .. toctree::   :maxdepth: 6    7102.rst   7190.rst   7101.rst
